@@ -1,7 +1,7 @@
 class Main {
     public static void main(String [] args) {
-        String section = "Block 4";
+        String subject = "ITE 300";
 
-        System.out.println(section);  
+        System.out.println(subject);  
     }
 }
