@@ -5,5 +5,15 @@ class Main {
 
         System.out.println(subject);  
         System.out.println(section);  
+
+
+        System.out.println(subject);  
+        System.out.println(section);  
+
+        System.out.println(subject);  
+        System.out.println(section);  
+
+        System.out.println(subject);  
+        System.out.println(section);  
     }
 }
